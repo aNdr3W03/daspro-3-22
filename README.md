@@ -6,7 +6,7 @@ Untuk mencari soal tugas atau ujian, Anda dapat berpindah _branch_ sesuai dengan
 
 Atau, Anda juga dapat menekan _link_ di bawah ini untuk langsung pergi ke _branch_ soal tugas atau ujian yang dituju.
 
-* [Tugas 1](tree/tugas_1)
-* [UTS (Ujian Tengaah Semester)](tree/uts)
-* [Tugas 2](tree/tugas_2)
-* [UAS (Ujian Akhir Semester)](tree/uas)
+* [Tugas 1](../tree/tugas_1)
+* [UTS (Ujian Tengaah Semester)](../tree/uts)
+* [Tugas 2](../tree/tugas_2)
+* [UAS (Ujian Akhir Semester)](../tree/uas)
