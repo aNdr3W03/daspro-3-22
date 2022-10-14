@@ -27,7 +27,7 @@ Silakan kerjakan **3 soal** yang ada di **Modul 3**.
    * _Output_ program merupakan menu yang dipilih, serta biaya yang harus dibayar
    * Menu serta kode yang digunakan tiap praktikan tidak boleh sama
 
-3. Dengan menggunakan _statement **case**_, buatlah sebuah program yang akan menampilkan huruf yang dimasukkan _user_ merupakan huruf vokal/konsonan.
+3. Dengan menggunakan _statement_ `case`, buatlah sebuah program yang akan menampilkan huruf yang dimasukkan _user_ merupakan huruf vokal/konsonan.
 
 ## Deskripsi Pengumpulan Tugas
 
