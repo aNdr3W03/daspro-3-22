@@ -53,4 +53,4 @@ Kalau misalnya _source code_ atau programnya terlalu panjang (_screenshot_-nya l
 
 ---
 
-<h2><ins><b><i>JANGAN COBA-COBA UNTUK COPY PASTE SOURCE CODE ANTAR PRAKTIKAN ATAUPUN YANG ADA DI GOOGLE. SILAKAN KERJAKAN MASING-MASING.</i></b></ins></h2>
+<h2><ins><b><i>⚠️ JANGAN COBA-COBA UNTUK COPY PASTE SOURCE CODE ANTAR PRAKTIKAN ATAUPUN YANG ADA DI GOOGLE. SILAKAN KERJAKAN MASING-MASING. ⚠️</i></b></ins></h2>
