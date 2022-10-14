@@ -31,8 +31,8 @@ Silakan kerjakan **3 soal** yang ada di **Modul 3**.
 
 ## Deskripsi Pengumpulan Tugas
 
-Apa yang mesti dikumpulkan untuk tugas ini? Mmmm _coding_-annya kah? Nah jadi berikut yang mesti dikumpulkan,
-1. _Source code_ programnya (buat di Notepad, file extension `.txt`)
+Apa yang mesti dikumpulkan untuk tugas ini? Mmmm _coding_-annya kah? Nah, jadi berikut yang mesti dikumpulkan,
+1. _Source code_ programnya (buat di Notepad, _file extension_ `.txt`)
 2. _Screenshot source code_ programnya (`.png` atau `.jpg` atau `.jpeg`)
 3. _Screenshot output_ programnya (`.png` atau `.jpg` atau `.jpeg`)
 
