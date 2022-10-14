@@ -51,7 +51,7 @@ Kalau misalnya _source code_ atau programnya terlalu panjang (_screenshot_-nya l
 `[DP5][Tugas1] - [1.2][s.code] - [Andrew][035].png`  
 `[DP5][Tugas1] - [1.3][s.code] - [Andrew][035].png`  
 
-Deadline: *Kamis, 20 Oktober 2022*
+Deadline: **Kamis, 20 Oktober 2022**
 
 ---
 
