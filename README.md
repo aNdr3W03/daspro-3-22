@@ -47,9 +47,9 @@ Contoh penamaan _file_-nya:
 3. `[DP3][Tugas1] - [1][output] - [Andrew][035].png`
 
 Kalau misalnya _source code_ atau programnya terlalu panjang (_screenshot_-nya lebih dari 1) untuk 1 soal, nama _file_-nya bisa dibuat seperti berikut:  
-`[DP5][Tugas1] - *[1.1]*[s.code] - [Andrew][035].png`  
-`[DP5][Tugas1] - *[1.2]*[s.code] - [Andrew][035].png`  
-`[DP5][Tugas1] - *[1.3]*[s.code] - [Andrew][035].png`  
+`[DP5][Tugas1] - [1.1][s.code] - [Andrew][035].png`  
+`[DP5][Tugas1] - [1.2][s.code] - [Andrew][035].png`  
+`[DP5][Tugas1] - [1.3][s.code] - [Andrew][035].png`  
 
 ---
 
