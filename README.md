@@ -32,17 +32,17 @@ Silakan kerjakan **3 soal** yang ada di **Modul 3**.
 ## Deskripsi Pengumpulan Tugas
 
 Apa yang mesti dikumpulkan untuk tugas ini? Mmmm _coding_-annya kah? Nah, jadi berikut yang mesti dikumpulkan,
-1. _Source code_ programnya (buat di Notepad, _file extension_ `.txt`)
+1. _Source code_ programnya (buat di Notepad, simpan dengan _file extension_ `.pas`)
 2. _Screenshot source code_ programnya (`.png` atau `.jpg` atau `.jpeg`)
 3. _Screenshot output_ programnya (`.png` atau `.jpg` atau `.jpeg`)
 
 Penamaan _file_-nya,
-1. `[DP3][Tugas1] - [No. Soal][s.code] - [Nama][NIM].txt`
+1. `[DP3][Tugas1] - [No. Soal][s.code] - [Nama][NIM].pas`
 2. `[DP3][Tugas1] - [No. Soal][s.code] - [Nama][NIM].png`
 3. `[DP3][Tugas1] - [No. Soal][output] - [Nama][NIM].png`
 
 Contoh penamaan _file_-nya:
-1. `[DP3][Tugas1] - [1][s.code] - [Andrew][035].txt`
+1. `[DP3][Tugas1] - [1][s.code] - [Andrew][035].pas`
 2. `[DP3][Tugas1] - [1][s.code] - [Andrew][035].png`
 3. `[DP3][Tugas1] - [1][output] - [Andrew][035].png`
 
