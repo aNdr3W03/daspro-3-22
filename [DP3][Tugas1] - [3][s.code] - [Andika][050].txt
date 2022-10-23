@@ -1,0 +1,29 @@
+program Tugas_1_Github_Nomor_3;
+uses crt;
+
+var 
+    huruf : char;
+    
+    
+begin
+    clrscr;
+    
+    write ('Masukkan huruf : '); readln(huruf);
+    huruf := upcase (huruf);
+    
+    writeln ('------------------------------------');
+    
+    case huruf of
+    'A','I','U','E','O' :
+    writeln (huruf, ' termasuk huruf vokal');
+    
+    'B','C','D','F','G','H','J','K','L','M','N','P','Q','R','S','T','V','W','X','Y','Z' :
+    writeln (huruf, ' termasuk huruf konsonan');
+    
+    else
+        writeln (huruf, ' bukan huruf vokal maupun konsonan')
+    end;
+    readln();
+
+end.
+
