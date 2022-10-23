@@ -1,0 +1,35 @@
+program Tugas_1_Github_Nomor_2;
+uses crt;
+
+var 
+    kode_menu : string;
+begin
+    clrscr;
+    
+    writeln ('Kode Menu       Nama Makanan              Harga');
+    writeln ('CSUSU01      Pizza Meat Lovers      Rp. 118.000');
+    writeln ('CSUSU02      Cheeseburger            Rp. 35.000');
+    writeln ('CSUSU03      Ayam Rica-Rica          Rp. 25.000');
+    writeln ('CSUSU04      Ikan Tuna               Rp. 39.000');
+    writeln ('CSUSU05      Steak Ayam              Rp. 29.000');
+    writeln ('CSUSU06      Cumi-Cumi               Rp. 30.000');
+    writeln ('CSUSU07      Udang                   Rp. 35.000');
+     
+    write ('Masukkan kode makanan ----------> '); readln (kode_menu);
+    kode_menu := upcase (kode_menu);
+    writeln ('---------------------------------------------------');
+    case kode_menu of
+    'CSUSU01' : writeln ('Pizza Meat Lovers Rp. 118.000');
+    'CSUSU02' : writeln ('Cheeseburger Rp. 35.000');
+    'CSUSU03' : writeln ('Ayam Rica-Rica Rp. 25.000');
+    'CSUSU04' : writeln ('Ikan Tuna      Rp. 39.000');
+    'CSUSU05' : writeln ('Steak Ayam Rp. 29.000');
+    'CSUSU06' : writeln ('Cumi-Cumi Rp. 30.000');
+    'CSUSU07' : writeln ('Udang   Rp. 35.000');
+    
+    else
+       writeln('Mohon maaf, menu tidak tersedia');
+    end;
+       
+    readln();
+end.

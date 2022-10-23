@@ -1,0 +1,31 @@
+program Tugas_1_Github_Nomor_1;
+uses crt;
+
+var 
+    p, q, r : integer;
+begin
+    clrscr;
+    
+    write ('Masukkan Nilai 1: '); readln(p);
+    write ('Masukkan Nilai 2: '); readln (q);
+    write ('Masukkan Nilai 3: '); readln (r);
+    
+    if (p>q) and (q>r) then
+       begin
+          writeln ('Urutan : ',r,' ',q,' ',p );
+       end
+    else if (q<r) and (p<q) then
+       begin
+          writeln ('Urutan : ',p,' ',q,' ',r);
+       end
+    else if (r<p) and (q>p) then
+       begin
+          writeln ('Urutan : ',r,' ',p,' ',q);
+       end
+    else
+       begin
+          writeln ('Urutan : ',q,' ',r,' ',p );
+       end;
+       
+    readln();
+end.
