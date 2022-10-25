@@ -101,7 +101,23 @@ Silakan kerjakan **3 soal** yang ada di soal **Ujian Tengah Semester**.
    <tr>
      <td> 4 </td>
      <td>
+        
+    * * * *
+     * * *
+      * *
+       *
+      * *
+     * * *
+    * * * *
+        
+   </tr>
+   <tr>
+     <td>7</td>
+     <td>
        
+    * * * * * * *
+     * * * * * *
+      * * * * *
        * * * *
         * * *
          * *
@@ -109,25 +125,9 @@ Silakan kerjakan **3 soal** yang ada di soal **Ujian Tengah Semester**.
          * *
         * * *
        * * * *
-       
-   </tr>
-   <tr>
-     <td>7</td>
-     <td>
-       
-       * * * * * * *
-        * * * * * *
-         * * * * *
-          * * * *
-           * * *
-            * *
-             *
-            * *
-           * * *
-          * * * *
-         * * * * *
-        * * * * * *
-       * * * * * * *
+      * * * * *
+     * * * * * *
+    * * * * * * *
        
    </tr>
  </table>
