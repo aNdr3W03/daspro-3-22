@@ -28,10 +28,10 @@ Silakan kerjakan **3 soal** yang ada di soal **Ujian Tengah Semester**.
    
    ### Contoh Input dan Output
    
-   | Input : | Output : |
-   |---------|----------|
-   | 500 70  | 533      |
-   | 1000 10 | 5759     |
+   | Input :   | Output : |
+   |-----------|--------  |
+   | `500 70`  | `533`    |
+   | `1000 10` | `5759`   |
 
 ---
 
@@ -55,10 +55,10 @@ Silakan kerjakan **3 soal** yang ada di soal **Ujian Tengah Semester**.
    
    <table>
      <tr><th>Input :</th><th>Output :</th></tr>
-     <tr><td>21</td><td rowspan='2'>1</td></tr>
-     <tr><td>12</td></tr>
-     <tr><td>12</td><td rowspan='2'>4</td></tr>
-     <tr><td>-20</td></tr>
+     <tr><td><code>21</code></td><td rowspan='2'><code>1</code></td></tr>
+     <tr><td><code>12</code></td></tr>
+     <tr><td><code>12</code></td><td rowspan='2'><code>4</code></td></tr>
+     <tr><td><code>-20</code></td></tr>
    </table>
    
 ---
@@ -99,7 +99,7 @@ Silakan kerjakan **3 soal** yang ada di soal **Ujian Tengah Semester**.
      <th>Output :</th>
    </tr>
    <tr>
-     <td> 4 </td>
+     <td><code>4</code></td>
      <td>
         
     * * * *
@@ -112,7 +112,7 @@ Silakan kerjakan **3 soal** yang ada di soal **Ujian Tengah Semester**.
         
    </tr>
    <tr>
-     <td>7</td>
+     <td><code>7</code></td>
      <td>
        
     * * * * * * *
