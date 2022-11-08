@@ -1,0 +1,19 @@
+program tangga;
+uses crt, math;
+var
+   h, a : integer;
+   rad : real;
+  Panjang_minimal_tangga : real;
+begin
+   clrscr;
+writeln ('/-------------------------INPUT--------------------------\');
+write ('Tinggi Rumah : '); readln (h);
+write ('Sudut Tangga terhadap Tanah : '); readln (a); 
+
+rad := a*pi/180;
+Panjang_minimal_tangga := h/sin(rad);
+
+writeln ('/-------------------------OUTPUT-------------------------\');
+write ('Panjang Minimal Tangga : ',ceil (Panjang_minimal_tangga),' cm');
+
+end.
