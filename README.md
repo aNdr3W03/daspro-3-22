@@ -6,7 +6,7 @@ Hai, selamat datang di _branch_ Tugas 2, bagaimana kabarnya semua? Semangat teru
 
 ## Deskripsi Soal
 
-Soal ini terdapat pada modul praktikum Dasar Pemrograman, tepatnya modul 5 tentang Array, modul 6 tentang Function and Procedure, dan modul 7 tentang Record. Kalian juga dapat langsung melihat soalnya dari modul tersebut.
+Soal ini terdapat pada modul praktikum Dasar Pemrograman, tepatnya **modul 5 tentang Array**, **modul 6 tentang Function and Procedure**, dan **modul 7 tentang Record**. Kalian juga dapat langsung melihat soalnya dari modul tersebut.
 
 Silakan kerjakan **3 soal** dari modul tersebut dengan ketentuan sebagai berikut!
 
@@ -25,14 +25,14 @@ Silakan kerjakan **3 soal** dari modul tersebut dengan ketentuan sebagai berikut
 - Buatlah program yang menyimpan data urutan antrian `n` ( $1 <= n <= 10$ ) mahasiswa (ditandai dengan NIM) yang sedang menunggu pesanan di kantin mulai dari yang paling dengan ke belakang. Kemudian tampilkan urutan antiran `n` mahasiswa tersebut (ditandai dengan NIM) dari belakang ke depan.
   | Input :               | Output :              |
   |-----------------------|-----------------------|
-  | `5`                   | `111 012 054 023 04`3 |
+  | `5`                   | `111 012 054 023 043` |
   | `043 023 054 012 111` |                       |
 
 - Buatlah program menggunakan fungsi untuk menampilkan deret bilangan berikut:  
-  a. 1,1,2,3,5,8,13,21,34,....  
-  b. 1,2,4,8,16,32,...  
-  c. 1,4,9,16,25,....  
-  d. 2,6,12,20,30,....  
+  a. `1, 1, 2, 3, 5, 8, 13, 21, 34, ...`  
+  b. `1, 2, 4, 8, 16, 32, ...`  
+  c. `1, 4, 9, 16, 25, ...`  
+  d. `2, 6, 12, 20, 30, ...`  
   | Input : | Output :               |
   |---------|------------------------|
   | `3`     | `1, 1, 2`              |
