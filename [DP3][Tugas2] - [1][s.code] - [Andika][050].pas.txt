@@ -1,0 +1,53 @@
+program nilai_UAS;
+uses crt;
+
+const
+  MAX = 10;
+
+var
+  nilai: array[1..MAX] of integer;
+  i, j, n, temp: integer;
+
+begin
+  writeln('|=================================================|');
+  writeln(' Program Nilai UAS dari yang tertinggi ke terendah ');
+  writeln('|=================================================|');
+  
+  writeln('|Input|');
+  write('Masukan Jumlah Mahasiswa: '); readln(n);
+
+  for i := 1 to n do
+  begin
+    write('Masukan Nilai UAS Mahasiswa ', i, ': '); readln(nilai[i]);
+  end;
+
+  
+  for i := 1 to n do
+  begin
+    for j := i to n + 1 do
+    begin
+      if nilai[i] < nilai[j] then
+      begin
+        temp := nilai[i];
+        nilai[i] := nilai[j];
+        nilai[j] := temp;
+      end;
+    end;
+  end;
+
+  writeln('|Output|');
+  writeln('Nilai UAS Mahasiswa yang diurutkan dari tertinggi ke terendah:');
+  
+  for i := 1 to n do
+  begin
+    write(nilai[i],', ', '');
+  end;
+  
+   if (i<=n) then
+    begin
+       write('(terdapat ',i, ' nilai mahasiswa yang sudah diurutkan)', '. ');
+  end;
+  
+  
+end.
+

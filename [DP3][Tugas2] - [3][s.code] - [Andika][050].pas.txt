@@ -1,0 +1,55 @@
+program biodata_mahasiswa;
+uses crt;
+
+const
+  MAX = 100;
+  
+type
+  data_mahasiswa = record
+          Nama          : string;
+          NIM           : string;
+          Alamat        : string;
+          No_HP         : string;
+          Tempat_Lahir  : string;
+          Tanggal_Lahir : string;
+end;
+
+var 
+   biodata_mhs : array[1..MAX] of data_mahasiswa;
+   i, n : integer;
+
+begin
+   clrscr;
+   writeln('=============================');
+   write('Masukan Banyak Mahasiswa: '); readln(n);
+   writeln('=============================');
+   for i := 1 to n do
+   begin
+         writeln('===============================');
+         writeln('Masukan Biodata Mahasiswa', ' ', i, ': '); 
+         writeln('===============================');
+         write('Masukan Nama: '); readln(biodata_mhs[i].nama);
+         write('Masukan NIM: ');  readln(biodata_mhs[i].nim);
+         write('Masukan Alamat: '); readln(biodata_mhs[i].alamat);;
+         write('Masukan No. HP: ');  readln(biodata_mhs[i].no_hp);
+         write('Masukan Tempat Lahir: '); readln(biodata_mhs[i].tempat_lahir);
+         write('Masukan Tanggal Lahir: ');  readln(biodata_mhs[i].tanggal_lahir);
+       end;
+      
+   writeln('========================');
+   writeln(' Data yang Anda Masukan ');
+   writeln('========================');
+   for i := 1 to n do
+   begin
+      
+         writeln('Nama: ', biodata_mhs[i].nama);
+         writeln('NIM: ', biodata_mhs[i].nim);
+         writeln('Alamat: ', biodata_mhs[i].alamat);
+         writeln('No. HP: ', biodata_mhs[i].no_hp);
+         writeln('Tempat Lahir: ', biodata_mhs[i].tempat_lahir);
+         writeln('Tanggal Lahir: ', biodata_mhs[i].tanggal_lahir);
+         writeln;
+       end;
+    readln;
+end.
+   

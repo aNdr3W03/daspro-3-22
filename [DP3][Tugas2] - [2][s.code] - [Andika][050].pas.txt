@@ -1,0 +1,37 @@
+program faktorial;
+uses crt;
+function recursive(n: integer): integer;
+
+var
+   i : integer;
+  
+begin
+   recursive := 1;
+   for i := 1 to n do
+   recursive := recursive * i;
+end;
+
+var
+   n, i, j: integer;
+
+begin
+   writeln('|=================|');
+   writeln(' Program Faktorial ');
+   writeln('|=================|');
+   
+   writeln('|Input|');
+   write('Masukan Nilai: '); readln(n);
+   
+   writeln('|Output|');
+   write('Maka, ', n,'!', ' = ');
+   
+for i := n downto 1 do
+
+   begin
+      write (i, ' ');
+   end;
+  
+   begin
+      writeln('= ', recursive(n));
+   end;
+end.
