@@ -17,7 +17,7 @@ Silakan kerjakan **3 soal** dari modul tersebut dengan ketentuan sebagai berikut
 
 [NIM Genap](#nim-genap 'Tugas 2 bagi NIM Genap')
 - Modul 5 Nomor 3
-- Modul 6 Nomor 4
+- Modul 6 Nomor 3
 - Modul 7 Nomor 1
 
 ## NIM Ganjil
