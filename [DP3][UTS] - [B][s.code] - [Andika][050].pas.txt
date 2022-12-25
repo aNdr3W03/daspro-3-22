@@ -1,0 +1,37 @@
+program kuadran;
+uses crt;
+var
+   x, y : integer;
+begin
+   clrscr;
+   writeln ('/--------------------INPUT--------------------\');
+   writeln ('***********************************************');
+   write ('Masukkan Koordinat X : '); readln (x);
+   write ('Masukkan Koordinat Y : '); readln (y);
+   writeln ('/--------------------OUTPUT--------------------\');
+   writeln ('************************************************');
+   if (x>0) and (y>0) then
+      begin
+         writeln ('Terletak pada Kuadran : ', 1);
+      end
+      
+   else if (x<0) and (y>0) then
+           begin
+              writeln ('Terletak pada Kuadran : ', 2);
+           end
+   else if (x<0) and (y<0) then
+           begin
+              writeln ('Terletak pada Kuadran : ', 3);
+           end
+   else if (x>0) and (y<0) then
+            begin
+               writeln ('Terletak pada Kuadran : ', 4);
+           end
+           
+   else
+       begin
+          writeln ('Tidak Berada pada Kuadran Manapun');
+       end;
+   readln;
+   
+end.
